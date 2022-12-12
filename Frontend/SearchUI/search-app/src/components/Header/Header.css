@@ -1,0 +1,6 @@
+.container h1 {
+    font-style: italic;
+    color: blueviolet;
+    display: block;
+    align-items: center;
+}
