@@ -3,7 +3,22 @@
     column-gap: 1rem;
     display: flex;
     flex-wrap:wrap;
-    justify-content: center;
-    height: '100%';
-    padding: 0 4px;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-height: 4000px;
+    height: auto;
+    width: 100%;
+    /* padding: 10px; */
+    align-items: flex-start;
+    align-content: center;
+    padding-top: 2rem;
+}
+
+.card {
+    margin-bottom: 0rem;
+    display: flex;
+}
+
+.ResultsList {
+    align-content: center;
 }

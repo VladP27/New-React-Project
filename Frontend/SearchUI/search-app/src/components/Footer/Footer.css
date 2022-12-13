@@ -1,0 +1,22 @@
+.Footer {
+    display: flex;
+    padding: 0.5rem;
+    margin-top: 3rem;
+    background-color: #CF1A32;
+    width: 100%;
+    height: 20px;
+    color: whitesmoke;
+    gap: 55%;
+    justify-content: center;
+    position:static;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+a {
+    color: whitesmoke;
+    font-weight: 1000;
+    font-size: 16px;
+}
